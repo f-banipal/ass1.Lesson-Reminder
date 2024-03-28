@@ -47,6 +47,86 @@ button{
     font-size: 1.4rem;
 }
 
+@media screen and (max-width: 1770px){    
+    .lessonCard{
+        font-size: 1.2rem;        
+    }  
+}
+@media screen and (max-width: 1616px){    
+    .lessonCard{
+        font-size: 1rem;        
+    }    
+}
+@media screen and (max-width: 1500px){    
+    .container__body{
+        display:grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 20px;    
+    }
+}
+@media screen and (max-width: 1310px){    
+    .container__body{
+        display:grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 20px;    
+    }
+}
+@media screen and (max-width: 1200px){    
+    .container__body{
+        display:grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 20px;    
+    }
+    .lessonCard{   
+        display: flex;
+        justify-content: center;
+        align-items: center;       
+    }
+    
+}
+@media screen and (max-width: 970px){    
+    .container__body{
+        display:grid;
+        grid-template-columns: repeat(1, 1fr);
+        gap: 20px;  
+
+    }
+
+    .lessonCard{   
+        display: flex;        
+        justify-content: center;
+        align-items: center;
+        padding-left: 4rem;   
+        gap: 1rem;
+        font-size: 1.4rem;
+    }
+    
+}
+
+@media screen and (max-width: 600px){    
+    .lessonCard{   
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;          
+        gap: 1rem;
+       
+    }
+
+    .lessonCard__Header{
+        text-align: center;
+        padding: 1rem;
+        font-size: 1.2rem;
+    }
+}
+@media screen and (max-width: 500px){    
+    .container__body{
+        font-size: 0.3rem;
+    }
+}
+
+
+
 .lessonCard1__image{
         border-radius: 10px;
 }
