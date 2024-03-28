@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ass1.Lesson-Reminder/static/css/main.0d43d50d.css",
+    "main.js": "/ass1.Lesson-Reminder/static/js/main.f035f259.js",
+    "static/media/moon.jpg": "/ass1.Lesson-Reminder/static/media/moon.1edeba9a88a420a2aa8a.jpg",
+    "static/media/logo.png": "/ass1.Lesson-Reminder/static/media/logo.cc8c764347d82adf40db.png",
+    "index.html": "/ass1.Lesson-Reminder/index.html",
+    "main.0d43d50d.css.map": "/ass1.Lesson-Reminder/static/css/main.0d43d50d.css.map",
+    "main.f035f259.js.map": "/ass1.Lesson-Reminder/static/js/main.f035f259.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d43d50d.css",
+    "static/js/main.f035f259.js"
+  ]
+}
